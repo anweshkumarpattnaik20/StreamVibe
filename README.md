@@ -59,3 +59,4 @@ The included `vercel.json` provides single-page application rewrites for Vercel.
 
 This product uses the TMDB API but is not endorsed or certified by TMDB.
 # StreamVibe
+# StreamVibe
